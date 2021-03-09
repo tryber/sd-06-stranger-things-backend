@@ -5,5 +5,5 @@ Aqui você vai encontrar os locais para colocar suas repostas relativas aos requ
 **Lembre-se**: coloque as respostas apenas dos requisitos que contém o seguinte direcionamento:
 
   - Adicione os comandos utilizados, de maneira sequencial, ao README do backend.
-
-**Nota**: Este direcionamento está presente no [repositório](https://github.com/betrybe/sd-06-stranger-things) em que os requisitos do projeto são destrinchados.
+  
+**Nota**: Este direcionamento está presente no [repositório](https://github.com/betrybe/sd-0x-stranger-things) em que os requisitos do projeto são destrinchados.
