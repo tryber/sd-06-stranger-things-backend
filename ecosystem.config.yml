@@ -1,0 +1,10 @@
+apps:
+
+- name: ST-BE
+  script: ./index.js
+  exec_mode: cluster
+  instances: 2
+  max_memory_restart: 200M
+  env:
+    UPSIDEDOWN_MODE: true
+    GITHUB_USER: marianoelsztain
